@@ -1,3 +1,3 @@
 const clicked=function(){
-    location.href="https://youtu.be/OTroAxvRNbw"
+    location.href="https://sites.google.com/view/bobismad/home"
 }
